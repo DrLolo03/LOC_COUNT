@@ -13,9 +13,9 @@ Tener java y conocimiento del uso de consola
 
 
 # TEST
-![](Resources/images/test.png)
+![](Resources/images/test.PNG)
 # JAVA DOC
-![](Resources/images/doc1.png)
-![](Resources/images/doc2.png)
+![](Resources/images/doc1.PNG)
+![](Resources/images/doc2.PNG)
 # Licencia
 Este proyecto esta bajo Licencia de uso libre https://github.com/DrLolo03/CNYT/blob/master/LICENSE para mas informacion
