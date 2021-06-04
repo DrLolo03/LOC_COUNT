@@ -25,4 +25,4 @@ Tener java y conocimiento del uso de consola
 ![](Resources/images/doc1.PNG)
 ![](Resources/images/doc2.PNG)
 # Licencia
-Este proyecto esta bajo Licencia de uso libre https://github.com/DrLolo03/CNYT/blob/master/LICENSE para mas informacion
+Este proyecto esta bajo Licencia de uso libre https://github.com/DrLolo03/LOC_COUNT/blob/master/LICENSE para mas informacion
